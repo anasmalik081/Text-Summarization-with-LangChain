@@ -6,3 +6,8 @@ python-dotenv
 ipykernel
 transformers
 pypdf
+streamlit
+validators
+youtube-transcript-api
+unstructured
+pytube
