@@ -1,5 +1,7 @@
 # 🦜 LangChain Summarizer: YouTube & Website URL to Summary
 
+![YouTube Video and Website URL Summarizer](assets/summarizer.png) <!-- Replace with actual image -->
+
 This is a Streamlit-based application that uses **LangChain** and **Groq-hosted LLMs** to summarize text content from either a **YouTube video** (using its transcript) or a **Website URL**.
 
 ---
